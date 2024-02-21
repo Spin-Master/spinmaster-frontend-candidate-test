@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Spinmaster Frontend React Coding Challenge:
 
+Navigate to /frontend, in there you will find a basic react project. Follow the instructions below:
+
 Refactor the hardcoded data below, so that you are fetching the data from https://jsonplaceholder.typicode.com/photos?limit=50
 
 Using responsive design best practices, build a listing page that is suitable on desktop and mobile devices; the image on the cards should use the thumbnail URL and the layout should collapse to a single column on mobile. 
